@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @juliensailly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-juliensailly/juliensailly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in IT, politics, and climbing.
+- 🌱 I’m currently learning computer science at the IUT de Caen Normandie thanks to a BUT Informatique.
+- 📫 Do not hesitate to contact me on my socials ; Twitter ([@Julien_Sailly](https://twitter.com/Julien_sailly)), Discord (@juuuus) or by [Mail](mailto:juliensailly76@gmail.com).
