@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @juliensailly
 - 👀 I’m interested in IT, politics, and climbing.
 - 🌱 I’m currently learning computer science at the IUT de Caen Normandie thanks to a BUT Informatique.
-- 📫 Do not hesitate to contact me on my socials ; Twitter ([@Julien_Sailly](https://twitter.com/Julien_sailly)), Discord (@juuuus) or via my portofolio's <a href="https://juliensailly.github.io/#contact" target="_blank">contact page</a>.
+- 📫 Do not hesitate to contact me on my socials ; Twitter ([@Julien_Sailly](https://twitter.com/Julien_sailly)), Discord (@juuuus) or via my portofolio's [contact page]([url](http://juliensailly.github.io/)){:target="_blank"}.
